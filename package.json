@@ -1,0 +1,25 @@
+{
+  "name": "tnobler-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to ge generated for JS applications with an updated year and name. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnobler/tnobler-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Tanner Noble <tannernoble@gmail.com> (http://www.tannernoble.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnobler/tnobler-js-footer/issues"
+  },
+  "homepage": "https://github.com/tnobler/tnobler-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
