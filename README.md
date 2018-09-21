@@ -4,7 +4,8 @@
 
 Install with the command: 
 
-```npm install --save tnobler-js-footer
+```
+npm install --save tnobler-js-footer
 ```
 Add to a JavaScript Project with the following code: 
 
